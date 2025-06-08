@@ -1,1 +1,1 @@
-# data-mining-custumers
+# data-mining-customers
